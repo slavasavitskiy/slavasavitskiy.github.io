@@ -3,7 +3,7 @@
 # -----------------------------------------------------------------------------
 
 title: Slava Savitskiy
-#email: viacheslav_savitskiy@brown.edu
+email: viacheslav_savitskiy@brown.edu
 description: > # this means to ignore newlines until "url:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -107,7 +107,7 @@ exclude: [vendor]
 
 # Plug-ins
 plugins:
-  - jekyll-email-protect
+  # - jekyll-email-protect
   - jekyll-paginate-v2
   - jekyll/scholar
   - jemoji
