@@ -6,8 +6,6 @@ description:
 nav: true
 ---
 
-*separate paragraph*
-*separate paragraph*
 
 ***
 
