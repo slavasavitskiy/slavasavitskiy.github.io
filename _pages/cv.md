@@ -5,4 +5,4 @@ permalink: /cv/
 nav: true
 ---
 
-Download [here](/assests/pdf/CV.pdf).
+Download [here](CV.pdf).
