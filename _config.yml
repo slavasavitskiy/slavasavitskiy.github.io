@@ -55,8 +55,8 @@ google_analytics: UA-XXXXXXXXX # out your google-analytics code
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio  # your blog must have a name for it to show up in the nav bar
-blog_description: Academic website of Slava Savitskiy
+blog_name:  # your blog must have a name for it to show up in the nav bar
+blog_description: my academic blog
 permalink: /blog/:year/:title/
 
 # Pagination
