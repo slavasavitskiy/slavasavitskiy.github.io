@@ -6,7 +6,11 @@ description:
 nav: true
 ---
 
+*separate paragraph*
+*separate paragraph*
 
-
-#### Climatic Roots of Loss Aversion
 ***
+
+
+**Climatic Roots of Loss Aversion** with [Oded Galor](https://www.odedgalor.com/)
+
