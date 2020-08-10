@@ -7,11 +7,9 @@ description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 profile:
   align: right
   image: bio_photo.jpg
-  address: >
-    <p>64 Waterman Street</p>
-    <p>Providence, RI 02906</p>
+  address: 
 
-news: true
+news: false
 social: true
 ---
 
