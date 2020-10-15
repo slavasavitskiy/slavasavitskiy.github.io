@@ -11,7 +11,7 @@ nav: true
 
 **Macroeconomics for Graduate Students** Brown University (2016, 2017, 2018)
 
-[Matlab Guide](Matlab_guide.zip)
+[Matlab Guide](Matlab_Guide.zip)
 
 **International Trade** Brown University (2018, 2019)
 
