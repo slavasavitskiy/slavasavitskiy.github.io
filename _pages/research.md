@@ -10,8 +10,8 @@ nav: true
 &nbsp;
 
 
-*** 
-### Job Market Paper 
+ 
+## Job Market Paper 
 ***
 
 **Environmental Change and Individual Learning** _JMP_  (2020)
@@ -20,7 +20,7 @@ This research explores the determinants of predisposition towards individual lea
 
 [Paper](Environmental_Change_Individual_Learning_2020.pdf) &nbsp; [Slides](Environmental_change_Individual_Learning__Slides_Sep_2020_.pdf)
 
-### Working Papers 
+## Working Papers 
 ***
 
 **Climatic Roots of Loss Aversion** with [Oded Galor](https://www.odedgalor.com/) _R&R at The American Economic Review_ (2020)
@@ -37,7 +37,7 @@ This research explores the origins of labour-leisure preference and the variatio
 
 [Paper](Environmental_Roots_of_Labor_Leisure_Preference_Manuscript_Feb_2020.pdf)  &nbsp; [Slides](Environmental_Roots_of_Labor_Leisure_Preference_Manuscript_Slides_2019.pdf)
 
-### Work in Progress
+## Work in Progress
 ***
 
 **The Evolution of Culture: Drift and Selection** with Alexander Yarkin (2020)
