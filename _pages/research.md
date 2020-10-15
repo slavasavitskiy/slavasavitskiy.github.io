@@ -18,6 +18,8 @@ nav: true
 
 This research explores the determinants of predisposition towards individual learning and the variation in its prevalence across regions and linguistic groups. It advances the hypothesis and establishes empirically that the evolution of individual learning in the course of human history can be traced to the adaptation of humans to the changes in the environment that generated a need for adaptation via the process of cultural evolution. Exploiting variations in the environmental changes that occurred in the course of historic migrations or were caused by the introduction of new crops during the Columbian Exchange, the research suggests that  consistent with the predictions of the theory, individuals whose ancestors were subjected to a greater accumulated environmental changes are characterised by a higher propensity towards individual learning. 
 
+[Paper](Environmental_Change_Individual_Learning_2020.pdf) &nbsp; [Slides](Environmental_change_Individual_Learning__Slides_Sep_2020_.pdf)
+
 ### Working Papers 
 ***
 
@@ -40,5 +42,9 @@ This research explores the origins of labour-leisure preference and the variatio
 
 **The Evolution of Culture: Drift and Selection** with Alexander Yarkin (2020)
 
+[Slides](Evolution_of_Culture_slides_Oct_2019.pdf)
+
 **Soil Erosivity and Preindustrial Development** with Sergey Egiev and [Stelios Michalopoulos](https://sites.google.com/site/steliosecon/) (2020)
+
+[Slides](Erosisivty_Development_May_2020.pdf)
 
