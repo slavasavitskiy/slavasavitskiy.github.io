@@ -11,6 +11,8 @@ nav: true
 
 **Macroeconomics for Graduate Students** Brown University (2016, 2017, 2018)
 
+[Matlab Guide](Matlab_guide.zip)
+
 **International Trade** Brown University (2018, 2019)
 
 **Theory of Economic Growth** Brown University (2019)
