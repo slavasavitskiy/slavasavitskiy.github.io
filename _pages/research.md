@@ -40,7 +40,7 @@ This research explores the origins of labour-leisure preference and the variatio
 #### Work in Progress
 ***
 
-**The Evolution of Culture: Drift and Selection** with Alexander Yarkin (2020)
+**The Evolution of Culture: Selection and Drift** with Alexander Yarkin (2020)
 
 [Slides](Evolution_of_Culture_slides_Oct_2019.pdf)
 
@@ -48,3 +48,4 @@ This research explores the origins of labour-leisure preference and the variatio
 
 [Slides](Erosisivty_Development_May_2020.pdf)
 
+ 
