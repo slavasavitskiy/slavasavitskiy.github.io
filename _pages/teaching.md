@@ -11,7 +11,7 @@ nav: true
 
 **Macroeconomics for Graduate Students** Brown University (2016, 2017, 2018)
 
-&nbsp; &nbsp; Economic Growth, with [Oded Galor](https://www.odedgalor.com/) and [David Weil](https://sites.brown.edu/davidweil/)
+&nbsp; &nbsp; Economic Growth with [Oded Galor](https://www.odedgalor.com/) and [David Weil](https://sites.brown.edu/davidweil/)
 
 &nbsp; &nbsp; Real Business Cycles with [Neil Mehrotra](https://sites.google.com/site/neilrmehrotra/) and [Joaquin Blaum](https://sites.google.com/view/joaquin-blaum)
 
