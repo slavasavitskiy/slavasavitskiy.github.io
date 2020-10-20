@@ -14,11 +14,11 @@ nav: true
 #### Job Market Paper 
 ***
 
-**Environmental Change and Individual Learning** _JMP_  (2020)
+**Environmental Change and Capacity for Adaptation** _JMP_  (2020)
 
-This research explores the determinants of predisposition towards individual learning and the variation in its prevalence across regions and linguistic groups. It advances the hypothesis and establishes empirically that the evolution of individual learning in the course of human history can be traced to the adaptation of humans to the changes in the environment that generated a need for adaptation via the process of cultural evolution. Exploiting variations in the environmental changes that occurred in the course of historic migrations or were caused by the introduction of new crops during the Columbian Exchange, the research suggests that  consistent with the predictions of the theory, individuals whose ancestors were subjected to a greater accumulated environmental changes are characterised by a higher propensity towards individual learning. 
+This research explores the determinants of human capacity for adaptation and the variation in its prevalence across regions and linguistic groups. It advances the hypothesis and establishes empirically that the evolution of the capacity for adaptation in the course of human history can be traced to the response of humans to the changes in the environment that generated a need for adjustment via the process of cultural evolution. Exploiting variations in the environmental changes that occurred in the course of historic migrations or were caused by the introduction of new crops during the Columbian Exchange, the research suggests that  consistent with the predictions of the theory, individuals whose ancestors were subjected to a greater accumulated environmental changes are characterised by a higher propensity towards adaptation.
 
-[Paper](Environmental_Change_Individual_Learning_2020.pdf) &nbsp; [Slides](Environmental_change_Individual_Learning__Slides_Sep_2020_.pdf)
+[Paper](JMP.pdf) &nbsp; [Slides](Environmental_change_Individual_Learning__Slides_Sep_2020_.pdf)
 
 #### Working Papers 
 ***
